@@ -3,7 +3,7 @@
 
 
 ## LandingPage
-Página Web criada com o obetivo de fixar habilidades em HTML e CSS
+ Aplicação web desenvolvida para conscientização acerca dos benefícios de adotar um animal de estimação
 
 
 ## Tecnologias Utilizadas
@@ -14,6 +14,7 @@ Página Web criada com o obetivo de fixar habilidades em HTML e CSS
 ## Serviços Utilizados
 
 * Github
+* Gitbash
 
 
 ### 1 - Ao acessar o projeto, esta é a página principal
