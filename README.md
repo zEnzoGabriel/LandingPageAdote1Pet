@@ -17,9 +17,9 @@
 * Gitbash
 
 
-### 1 - Ao acessar o projeto, esta é a página principal
+### 1 - Demonstração do Projeto
 
-![Homepage image](https://github.com/zEnzoGabriel/landingPageBallerini/blob/main/midia/readme/home.png)
+![Homepage GIF](https://github.com/zEnzoGabriel/landingPageBallerini/blob/main/midia/readme/gifHomePageReadme.gif)
 
 ### 2 - Rodapé da página
 
