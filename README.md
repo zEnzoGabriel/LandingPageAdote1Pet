@@ -5,7 +5,7 @@
 ## LandingPage
  Aplicação web desenvolvida para conscientização acerca dos benefícios de adotar um animal de estimação
 
-E
+
 ## Tecnologias Utilizadas
 
 * HTML5
